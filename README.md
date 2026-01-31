@@ -12,4 +12,7 @@ Após definir o objetivo, fiz um esboço do peompt e com definir qual modelo uti
 
 ## 🚀 Resultados
 
-![Imagem gerada do Monkey D. Luffy realista](assets/luffy-realista.jpeg)
+<p align="center">
+  <img src="assets/luffy-realista.jpeg" alt="Monkey D. Luffy realista" width="600">
+</p>
+
